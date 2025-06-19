@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sangabhi
 - 👀 I’m interested in ...soloving DSA problems and web development .
-- 🌱 I’m currently learning ... DSA using C and frontend development.
+- 🌱 I’m currently learning ... DSA using Java and Full-stack development.
 - 💞️ I’m looking to collaborate on  development projects
 - 📫 How to reach me ... abhidubey1555@gmail.com 
 
